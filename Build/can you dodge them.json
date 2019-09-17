@@ -1,0 +1,15 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Game",
+"productVersion": "1.0",
+"dataUrl": "can you dodge them.data.unityweb",
+"wasmCodeUrl": "can you dodge them.wasm.code.unityweb",
+"wasmFrameworkUrl": "can you dodge them.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#292728",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.5f1"
+}
